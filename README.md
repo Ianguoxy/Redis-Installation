@@ -17,11 +17,11 @@ Office Site: https://redis.io/download
 
     #setp 4. compile redis
     opt/redis>$ cd  redis-5.0.3
-    opt/redis/edis-5.0.3>$ make
+    opt/redis/redis-5.0.3>$ make
 
 
     #setp 5.edit Redis config 
-    opt/redis/edis-5.0.3>$ vi redis.conf
+    opt/redis/redis-5.0.3>$ vi redis.conf
 
 
     #设置后台运行 
