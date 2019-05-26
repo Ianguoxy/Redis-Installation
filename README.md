@@ -46,3 +46,9 @@ You can interact with Redis using the built-in client:
     OK 
     redis> get foo 
     "bar"
+
+
+Note:
+
+1.安装redis时不能make
+https://www.e-learn.cn/content/linux/420740
